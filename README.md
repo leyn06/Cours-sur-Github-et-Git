@@ -662,4 +662,4 @@ git checkout a1b2c3d
 
 **Bravo ! Vous maîtrisez maintenant les bases de GitHub ! 🚀**
 
-**__Cours Ecrit Par Leyn_13**__
+**Cours Ecrit Par Leyn_13**
