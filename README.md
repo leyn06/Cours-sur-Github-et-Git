@@ -662,6 +662,6 @@ git checkout a1b2c3d
 
 **Bravo ! Vous maîtrisez maintenant les bases de GitHub ! 🚀**
 
-**Vous pouvez trouvez des exercices en rapport avec ce cours [ici](https://github.com/leyn06/Exercice-Github-et-Git) **
+## Vous pouvez trouvez des exercices en rapport avec ce cours [ici](https://github.com/leyn06/Exercice-Github-et-Git) 
 
 **Cours Ecrit Par Leyn_13**
